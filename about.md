@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About the Historic Urban Environments Lab
 permalink: /about/
 ---
-# Historic Urban Environments Lab
 
 The Historic Urban Environments Lab (HUE) at Notre Dame is a new interdisciplinary team of architects, computer scientists, librarians, programmers, anthropologists and GIS specialists whose goal is to create new tools to study the built environment.
 Building off of the success of two digital projects created by the Architecture Library, the [Seaside Research Portal](https://seaside.library.nd.edu/) and [SPQR-ND](/architecture/spqrnd.shtml), the team is currently working on several web sites and applications to better study the built environment.

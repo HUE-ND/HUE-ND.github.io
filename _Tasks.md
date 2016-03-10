@@ -5,7 +5,7 @@
   - [x] Convert to webfont
 - [ ] Create responsive theme
 - [ ] Homepage showcase of completed projects
-- [ ] Footer-based responsive navigation
+- [x] Footer-based responsive navigation
 
 ## Production Deployment
 
