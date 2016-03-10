@@ -3,12 +3,18 @@
 ---
 @charset "utf-8";
 
-
+@font-face {
+  font-family: 'day_romanregular';
+  src: url('/fonts/day-roman/day-roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$display-typeface: 'day_romanregular', Georgia, serif;
+$base-font-family: -apple-system, "San Francisco", "Roboto", "Segoe UI", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 

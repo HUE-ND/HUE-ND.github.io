@@ -1,8 +1,8 @@
 # HUE Website Tasks
 
 ## Prototype Development
-- [ ] Choose display typeface
-  - [ ] Convert to webfont
+- [x] Choose display typeface
+  - [x] Convert to webfont
 - [ ] Create responsive theme
 - [ ] Homepage showcase of completed projects
 - [ ] Footer-based responsive navigation
