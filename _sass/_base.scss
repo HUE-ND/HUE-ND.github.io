@@ -76,6 +76,17 @@ li {
     }
 }
 
+.site-navigation-menu {
+  margin-left: 0;
+}
+
+.site-navigation-menu-item {
+  list-style-type: none;
+
+  > .site-navigation-menu {
+    margin-left: $spacing-unit;
+  }
+}
 
 
 /**
@@ -85,10 +96,20 @@ h1 {
   font-family: $display-typeface;
 }
 
-h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: $base-font-weight;
 }
 
+.site-navigation-heading {
+  font-family: $display-typeface;
+  font-size: 1.5em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
 
 
 /**
