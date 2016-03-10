@@ -49,8 +49,8 @@ Robin Rhodes, Associate Professor, Art, Art History and Design. Concurrent Assoc
 [Downtown SB](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8) - Available in the App Store
 
 ## Future Projects
-Historic Tourism for the Modern Traveler  
-An Architects Guide to Rome – Alberti to Adam  
+Historic Tourism for the Modern Traveler
+An Architects Guide to Rome – Alberti to Adam
 Paris-Rome-Athens
 
 ## Technology
