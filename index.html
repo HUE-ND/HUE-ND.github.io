@@ -2,22 +2,30 @@
 layout: default
 ---
 
-<div class="home">
+<section class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1>Sites</h1>
+  <p>
+    <a href="http://buildingsouthbend.nd.edu/">Building South Bend: Past, Present, &amp; Future</a>
+  </p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <h1>Apps</h1>
+  <ul class="app-list">
+    <li class="app">
+      <a class="app-link" href="https://itunes.apple.com/us/app/downtown-sb/id993179423">
+        <img class="app-icon" src="/images/app-icon-dbsb-universal.png">Downtown South Bend
+      </a>
+    </li>
+    <li class="app">
+      <a class="app-link" href="https://itunes.apple.com/us/app/spqr-nd/id908746471">
+        <img class="app-icon" src="/images/app-icon-spqr-nd-ipad.png">SPQR for iPad
+      </a>
+    </li>
+    <li class="app">
+      <a class="app-link" href="https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810">
+        <img class="app-icon" src="/images/app-icon-spqr-nd-iphone.png">SPQR for iPhone
+      </a>
+    </li>
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</section>
