@@ -128,17 +128,25 @@
   width: 4em;
 }
 
-.app-list {
+.app-list,
+.site-list {
   list-style-type: none;
   margin-left: 0;
 
-  .app {
+  .app,
+  .site {
     margin-bottom: .5em;
   }
 
-  .app-link {
+  .app-link,
+  .site-link {
     display: block;
   }
+}
+
+.site-list .site {
+  margin-top: .5em;
+  line-height: 1.3;
 }
 
 
