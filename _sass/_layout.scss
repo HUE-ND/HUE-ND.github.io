@@ -11,18 +11,67 @@
 }
 
 .site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+  float: left;
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  line-height: 56px;
+  margin-bottom: 0;
+  min-height: 2em;
+  padding-left: 2.5em;
+  padding-top: 1em;
+  position: relative;
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  .hue-mark-wrapper {
+    display: inline-block;
+    height: 2em;
+    left: 0;
+    margin-bottom: 0;
+    position: absolute;
+    top: .6em;
+    width: 2em;
+
+    img {
+      width: 100%;
     }
+  }
+
+  h1,
+  h2 {
+    font-size: .7em;
+    line-height: 1.2;
+    margin-bottom: 0;
+  }
 }
+
+@media screen and (min-width: 40em) {
+  .site-title {
+    min-height: 4em;
+    padding-left: 5em;
+
+    .hue-mark-wrapper {
+      height: 4em;
+      top: .6em;
+      width: 4em;
+    }
+
+    h1,
+    h2 {
+      font-size: 1.5em;
+    }
+  }
+}
+
+
 
 .site-menu {
   float: right;
