@@ -79,13 +79,11 @@
 }
 
 
+ // Site footer
 
-/**
- * Site footer
- */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
 }
 
 .site-navigation-menu-item {
@@ -94,6 +92,28 @@
   a {
     display: block;
     padding: .1em 0;
+  }
+}
+
+.float-wrapper {
+  float: left;
+  width: 100%;
+}
+
+.back-to-top {
+  display: inline-block;
+  float: right;
+  padding-bottom: 1em;
+  position: relative;
+
+  &::before {
+    border-bottom: 8px solid $brand-color;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    content: '';
+    left: -12px;
+    position: absolute;
+    top: 15px;
   }
 }
 
