@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 The Historic Urban Environments Lab (HUE) at Notre Dame is a new interdisciplinary team of architects, computer scientists, librarians, programmers, anthropologists and GIS specialists whose goal is to create new tools to study the built environment.
-Building off of the success of two digital projects created by the Architecture Library, the [Seaside Research Portal](https://seaside.library.nd.edu/) and [SPQR-ND](/architecture/spqrnd.shtml), the team is currently working on several web sites and applications to better study the built environment.
+Building off of the success of two digital projects created by the Architecture Library, the [Seaside Research Portal](https://seaside.library.nd.edu/) and [SPQR-ND](http://library.nd.edu/architecture/spqrnd.shtml), the team is currently working on several web sites and applications to better study the built environment.
 Efforts include expanding SPQR-ND, an application for the iPad and iPhone that combines early architectural publications with mapping tools, beyond its current focus of the Roman Forum to include the historic city center of Rome and creating a application to study lost architecture through historic records combined with 3D modeling. 
 
 ## HUE/ND Team
@@ -42,7 +42,7 @@ Robin Rhodes, Associate Professor, Art, Art History and Design. Concurrent Assoc
 
 ## Current Projects
 [Seaside Research Portal](http://seaside.library.nd.edu)  
-[SPQR-ND](/architecture/spqrnd.shtml) – [iPad](https://itunes.apple.com/us/app/spqr-nd/id908746471?mt=8) – Available in the App Store  
+[SPQR-ND](http://library.nd.edu/architecture/spqrnd.shtml) – [iPad](https://itunes.apple.com/us/app/spqr-nd/id908746471?mt=8) – Available in the App Store  
 [SPQR-ND](http://library.nd.edu/architecture/spqrnd.shtml) – [iPhone](https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810?mt=8) - Available in the App Store  
 [Building South Bend: Past, Present, & Future](http://library.nd.edu/architecture/southbend/index.shtml)  
 [Downtown SB](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8) - Available in the App Store
@@ -79,8 +79,8 @@ Contact [Matthew Sisk](mailto:matthew.sisk@nd.edu?subject=HUE/ND%20-%20Technolog
 
 ## Campus Partners
 [Architecture IT Team](http://archit.nd.edu/)  
-[Architecture Library](/architecture)  
-[Center for Digital Scholarship](/cds/)  
+[Architecture Library](http://library.nd.edu/architecture)  
+[Center for Digital Scholarship](http://library.nd.edu/cds/)  
 [Center for Research Computing](http://crc.nd.edu/)  
 [School of Architecture](http://architecture.nd.edu/)
 
