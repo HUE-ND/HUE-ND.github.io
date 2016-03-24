@@ -26,9 +26,7 @@
 
 .site-menu {
   float: right;
-  letter-spacing: .15em;
   line-height: 56px;
-  text-transform: uppercase;
 }
 
 
@@ -41,10 +39,6 @@
     padding: $spacing-unit 0;
 }
 
-.site-navigation-menu {
-  font-family: $display-typeface;
-}
-
 .site-navigation-menu-item {
   padding: .1em 0;
 
@@ -55,7 +49,6 @@
 }
 
 .site-description {
-  font-family: $display-typeface;
   padding: 2em 0;
   text-align: center;
 }
@@ -92,43 +85,23 @@
 }
 
 
+// Posts
 
-/**
- * Posts
- */
 .post-header {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    line-height: 1.2;
-    font-size: 1.5em;
+  font-size: 1.5em;
+  line-height: 1.2;
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit;
 
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
+  h2 {
+    margin-bottom: .5em;
+    padding-top: .5em;
+  }
 }
+

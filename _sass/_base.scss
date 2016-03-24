@@ -13,6 +13,10 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+html {
+  padding-bottom: 20em;
+}
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -92,22 +96,24 @@ li {
 /**
  * Headings
  */
-h1 {
-  font-family: $display-typeface;
-}
-
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,
+h2 {
+  font-family: $base-font-family;
   font-weight: $base-font-weight;
 }
 
+h3,
+h4,
+h5,
+h6,
+.site-menu,
 .site-navigation-heading {
   font-family: $display-typeface;
-  font-size: 1.5em;
-  letter-spacing: .1em;
+  font-size: .8em;
+  font-weight: normal;
+  letter-spacing: .15em;
+  line-height: 1;
+  padding-top: 1em;
   text-transform: uppercase;
 }
 
