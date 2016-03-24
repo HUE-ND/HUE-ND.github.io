@@ -3,18 +3,11 @@
 ---
 @charset "utf-8";
 
-@font-face {
-  font-family: 'day_romanregular';
-  src: url('/fonts/day-roman/day-roman.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 // Our variables
-$display-typeface: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
-$base-font-family: 'Crimson', Georgia, serif;
+$display-typeface: 'Montserrat', Arial, sans-serif;
+$base-font-family: 'Crimson Text', Georgia, serif;
 $base-font-size:   16px;
-$base-font-weight: 300;
+$base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
