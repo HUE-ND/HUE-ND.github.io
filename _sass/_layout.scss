@@ -55,6 +55,7 @@
 @media screen and (min-width: 40em) {
   .site-title {
     min-height: 4em;
+    padding-bottom: .5em;
     padding-left: 5em;
 
     .hue-mark-wrapper {
@@ -245,13 +246,13 @@
   .app-list {
     .app-link {
       border-width: 3px;
-      padding: 1em .5em .8em;
-      width: 11em;
+      padding: 1em 1em .8em;
+      width: 11.7em;
     }
 
     .app + .app .app-link {
       border-width: 3px;
-      margin-left: .5em;
+      margin-left: .7em;
       padding-top: 1em;
     }
   }
