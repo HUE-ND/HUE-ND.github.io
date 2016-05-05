@@ -38,6 +38,11 @@ body {
   font-kerning: normal;
 }
 
+@media screen and (min-width: 68em) {
+  body {
+    font-size: 20px;
+  }
+}
 
 
 // Set `margin-bottom` to maintain vertical rhythm

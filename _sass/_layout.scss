@@ -144,6 +144,54 @@
   }
 }
 
+.app-list .app + .app {
+  border-top: 1px solid #EFEFEF;
+  padding-top: .5em;
+}
+
+@media screen and (min-width: 42em) {
+  .app-list {
+    .app {
+      border: 1px solid #EFEFEF;
+      box-sizing: border-box;
+      display: inline-block;
+      padding: 1.5em 1em 1em;
+      text-align: center;
+      width: 12em;
+
+      + .app {
+        margin-left: 1em;
+        padding-top: 1.5em;
+      }
+    }
+
+    .app-icon {
+      height: 6em;
+      margin-right: 0;
+      width: 6em;
+    }
+
+    .app-name {
+      display: block;
+      padding-top: 1em;
+    }
+  }
+}
+
+@media screen and (min-width: 68em) {
+  .app-list {
+    .app {
+      padding: 1em .5em;
+      width: 11em;
+
+      + .app {
+        margin-left: .5em;
+        padding-top: 1em;
+      }
+    }
+  }
+}
+
 .site-list .site {
   line-height: 1.3;
   margin-bottom: 1em;
