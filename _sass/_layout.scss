@@ -144,6 +144,53 @@
   }
 }
 
+.site-list {
+  .site {
+    padding: 1em;
+  }
+
+  .site-link {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: block;
+    height: 4em;
+  }
+
+  .seaside {
+    background: #2b4590;
+
+    .site-link {
+      background-image: url('/images/seaside-banner.png');
+    }
+  }
+
+  .dtsb {
+    background: url('/images/dtsb-bg-texture.png');
+
+    .site-link {
+      background-image: url('/images/dtsb-banner.png');
+    }
+  }
+
+  .link-text {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+}
+
+@media screen and (min-width: 42em) {
+  .site-list .seaside {
+    padding: 1em 2em;
+  }
+}
+
 .app-list {
   .app-link {
     border-color: #EFEFEF;
