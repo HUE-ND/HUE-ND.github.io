@@ -145,48 +145,43 @@
 }
 
 .site-list {
-  .site {
+  .site-link {
     padding: 1em;
   }
 
-  .site-link {
+  .link-text {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
     display: block;
     height: 4em;
+    overflow: hidden;
+    text-indent: -100%;
   }
 
   .seaside {
-    background: #2b4590;
-
     .site-link {
+      background: #2b4590;
+    }
+
+    .link-text {
       background-image: url('/images/seaside-banner.png');
     }
   }
 
   .dtsb {
-    background: url('/images/dtsb-bg-texture.png');
-
     .site-link {
+      background: url('/images/dtsb-bg-texture.png');
+    }
+
+    .link-text {
       background-image: url('/images/dtsb-banner.png');
     }
-  }
-
-  .link-text {
-    border: 0;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
   }
 }
 
 @media screen and (min-width: 42em) {
-  .site-list .seaside {
+  .site-list .seaside .site-link {
     padding: 1em 2em;
   }
 }
