@@ -4,22 +4,26 @@
 @charset "utf-8";
 
 // Our variables
-$display-typeface: 'Montserrat', Arial, sans-serif;
 $base-font-family: 'Crimson Text', Georgia, serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+$display-typeface: 'Montserrat', Arial, sans-serif;
+$small-font-size:  $base-font-size * 0.875;
 
-$spacing-unit:     30px;
+$spacing-unit:     2em;
 
-$text-color:       #111;
+$app-border-color: #efefef;
 $background-color: #fdfdfd;
+$brand-bar-color:  #fff;
 $brand-color:      #2a7ae2;
+$highlight-color:  #f3f3f3;
+$seaside-blue:     #2b4590;
+$text-color:       #111;
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 21%);
+$grey-color-light: lighten($grey-color, 40%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
