@@ -1,8 +1,31 @@
 // Site header
 
+.brand-bar {
+  background-color: #0c2340;
+  font-size: .8em;
+  padding: .5em 0;
+
+  a {
+    letter-spacing: .2em;
+    text-transform: uppercase;
+  }
+
+  i {
+    padding-right: .15em;
+    text-transform: lowercase;
+  }
+
+  a,
+  a:hover,
+  a:active,
+  a:visited {
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
 .site-header {
   border-bottom: 1px solid $grey-color-light;
-  border-top: 5px solid $grey-color-dark;
   min-height: 56px;
 
   // Positioning context for the mobile navigation icon
