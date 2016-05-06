@@ -151,6 +151,27 @@
   text-align: center;
 }
 
+.nd-mark {
+  text-align: center;
+
+  a {
+    display: inline-block;
+    max-width: 200px;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 42em) {
+  .nd-mark {
+    a {
+      max-width: 300px;
+    }
+  }
+}
+
 
 // Homepage
 
