@@ -276,6 +276,10 @@
 
   .site-link {
     padding: 1em;
+
+    &:hover {
+      text-decoration: none;
+    }
   }
 
   .link-text {
@@ -286,7 +290,7 @@
     display: block;
     height: 4em;
     overflow: hidden;
-    text-indent: -100%;
+    text-indent: -150%;
   }
 
   .seaside {
