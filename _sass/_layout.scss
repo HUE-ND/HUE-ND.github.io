@@ -107,9 +107,9 @@
   float: right;
   margin-left: 2px;
   margin-right: 2px;
-  padding-bottom: .5em;
+  padding-bottom: .8em;
   padding-left: .4em;
-  padding-top: .5em;
+  padding-top: 0;
 
   .site-menu-link {
     display: inline-block;
@@ -127,6 +127,7 @@
 
 @media screen and (min-width: 23em) {
   .site-menu {
+    padding-bottom: 0;
     padding-top: 2em;
   }
 }
