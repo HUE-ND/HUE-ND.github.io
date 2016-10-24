@@ -11,7 +11,7 @@ Efforts include expanding SPQR-ND, an application for the iPad and iPhone that c
 ## HUE/ND Team
 
 ### Content Development and Curation
-[Selena K. Anders](mailto:selena.k.anders4@nd.edu?subject=HUE/ND), Professor of the Practice, School of Architecture  
+[Selena K. Anders](mailto:selena.k.anders4@nd.edu?subject=HUE/ND), Assistant Professor, School of Architecture  
 [Jennifer Parker](mailto:jparker9@nd.edu?subject=HUE/ND), Head, Architecture Library
 
 ### Design, Mapping, Data, and Image Development
