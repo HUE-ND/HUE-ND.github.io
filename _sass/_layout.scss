@@ -337,47 +337,51 @@
 }
 
 .ribbon {
-  position: absolute;
-  right: -5px; top: -5px;
-  z-index: 1;
-  overflow: hidden;
-  width: 75px; height: 75px;
-  text-align: right;
-}
-.ribbon span {
-  font-size: 10px;
-  font-weight: bold;
-  color: #FFF;
-  text-transform: uppercase;
-  text-align: center;
-  line-height: 20px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-  width: 100px;
   display: block;
-  background: #79A70A;
-  background: linear-gradient(#9F1413 0%, #9f1413 100%);
-  box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+  height: 75px;
+  overflow: hidden;
   position: absolute;
-  top: 19px; right: -21px;
-}
-.ribbon span::before {
-  content: "";
-  position: absolute; left: 0px; top: 100%;
-  z-index: -1;
-  border-left: 3px solid #9f1413;
-  border-right: 3px solid transparent;
-  border-bottom: 3px solid transparent;
-  border-top: 3px solid #9f1413;
-}
-.ribbon span::after {
-  content: "";
-  position: absolute; right: 0px; top: 100%;
-  z-index: -1;
-  border-left: 3px solid transparent;
-  border-right: 3px solid #9f1413;
-  border-bottom: 3px solid transparent;
-  border-top: 3px solid #9f1413;
+  right: -5px;
+  text-align: right;
+  top: -5px;
+  width: 75px;
+  z-index: 1;
+
+  .text {
+    background-color: $rome-red;
+    box-shadow: 0 3px 10px -5px $white-text-shadow;
+    color: $white-text;
+    display: block;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: .07em;
+    line-height: 20px;
+    position: absolute;
+    right: -21px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 19px;
+    transform: rotate(45deg);
+    width: 100px;
+
+    &::before,
+    &::after {
+      border-color: $rome-red transparent transparent $rome-red;
+      border-style: solid;
+      border-width: 3px;
+      content: '';
+      left: 0;
+      position: absolute;
+      top: 100%;
+      z-index: -1;
+    }
+
+    &::after {
+      border-color: $rome-red $rome-red transparent transparent;
+      left: auto;
+      right: 0;
+    }
+  }
 }
 
 @media screen and (min-width: 25em) {
