@@ -283,14 +283,19 @@
   }
 
   .link-text {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    color: transparent;
     display: block;
-    height: 4em;
-    overflow: hidden;
-    text-indent: -150%;
+    text-align: center;
+
+    &.hidden {
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      color: transparent;
+      height: 4em;
+      overflow: hidden;
+      text-align: left;
+      text-indent: -150%;
+    }
   }
 
   .seaside {
@@ -312,11 +317,33 @@
       background-image: url('/images/dtsb-banner.png');
     }
   }
+
+  .rome {
+    .site-link {
+      background-image: url('/images/rome-banner-bg.jpg');
+      background-size: cover;
+      padding: 0;
+    }
+
+    .link-text {
+      color: $white-text;
+      font-size: 2em;
+      line-height: 2em;
+      text-shadow: 1px 1px 2px $white-text-shadow;
+    }
+  }
 }
 
 @media screen and (min-width: 42em) {
-  .site-list .seaside .site-link {
-    padding: 1em 2em;
+  .site-list {
+    .seaside .site-link {
+      padding: 1em 2em;
+    }
+
+    .rome .link-text {
+      font-size: 3.5em;
+      line-height: 1.7em;
+    }
   }
 }
 
