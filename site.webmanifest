@@ -1,0 +1,13 @@
+{
+  "name": "Historic Urban Environments Lab",
+  "short_name": "HUE/ND",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "300x300",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "background_color": "#fdfdfd",
+  "theme_color": "#4c4c4c"
+}
