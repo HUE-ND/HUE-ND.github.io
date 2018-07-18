@@ -7,16 +7,18 @@
 
   <div class="wrapper">
     <a class="site-title" href="{{ site.baseurl }}/">
-      <figure class="hue-mark-wrapper">
-        <img src="/images/hue-nd-mark.png" srcset="/images/hue-nd-mark-2x.png 2x" alt="HUE logo; grey circle with city plan backdrop">
-      </figure>
+      <picture class="hue-mark-wrapper">
+	<source srcset="/images/hue-nd-mark.webp 1x, /images/hue-nd-mark-2x.webp 2x" type="image/webp">
+	<source srcset="/images/hue-nd-mark.png 1x, /images/hue-nd-mark-2x.png 2x" type="image/png">
+	<img src="/images/hue-nd-mark.png" alt="HUE logo; grey circle with city plan backdrop">
+      </picture>
 
       <h1>Historic Urban Environments Lab</h1>
     </a>
 
     <nav class="site-menu">
       <a class="site-menu-link" href="#site-navigation">
-        <span class="link-text">Menu</span>
+	<span class="link-text">Menu</span>
       </a>
     </nav>
   </div>

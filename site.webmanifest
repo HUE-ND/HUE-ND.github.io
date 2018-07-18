@@ -3,7 +3,11 @@
   "short_name": "HUE/ND",
   "display": "fullscreen",
   "icons": [{
-    "src": "icon.png",
+    "src": "images/hue-nd-mark-2x.webp",
+    "sizes": "300x300",
+    "type": "image/webp"
+  },
+    "src": "images/hue-nd-mark-2x.png",
     "sizes": "300x300",
     "type": "image/png"
   }],
