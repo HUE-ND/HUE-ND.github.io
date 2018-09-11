@@ -15,41 +15,33 @@ Efforts include expanding SPQR-ND, an application for the iPad and iPhone that c
 [Jennifer Parker](mailto:jparker9@nd.edu?subject=HUE/ND), Head, Architecture Library
 
 ### Design, Mapping, Data, and Image Development
-[Dan Brubaker Horst](mailto:dan.brubaker.horst@nd.edu?subject=HUE/ND), Digital Library Applications Lead, Hesburgh Libraries  
+[Dan Brubaker Horst](mailto:dan.brubaker.horst@nd.edu?subject=HUE/ND), CTS Architect, Office of Information Technology
 [Adam Heet](mailto:Adam.L.Heet.3@nd.edu?subject=HUE%20Lab%20Technology), Digital Projects Specialist, Architecture Library  
 [Matthew Sisk](mailto:matthew.sisk@nd.edu?subject=HUE/ND), GIS and Anthropology Librarian, Center for Digital Scholarship
 
 ### Cyberinfrastructure, Programming, and Design
-[Ibrahim Chaaban](mailto:archit@nd.edu?subject=HUE/ND), Lead Applications Developer, Architecture IT Team  
-[Jaron Kennel](mailto:jkennel@nd.edu), Senior Software Engineer, Augmented and Virtual Reality  
+[Ibrahim Chaaban](mailto:archit@nd.edu?subject=HUE/ND), Application Development Professional, Office of Information Technology
 [Jarek Nabrzyski](mailto:jaroslaw.nabrzyski1@nd.edu?subject=HUE/ND), Director, Center for Research Computing  
 [Christopher Sweet](mailto:chris.sweet@nd.edu?subject=HUE/ND), Associate Director, Cyberinfrastructure Development, Center for Research Computing  
-[James Sweet](mailto:jsweet@nd.edu?subject=HUE/ND), PhD Candidate, Computer Science and Engineering
+[James Sweet](mailto:jsweet@nd.edu?subject=HUE/ND), Computer Science and Engineering
 
 ### Research and Content Support
-[Viveca Pattison Robichaud](mailto:vivecarobichaud@nd.edu), Special Collections Librarian  
-[Pete Reimers](mailto:preimer1@nd.edu), Library Assistant  
+Content support provided by Architecture students working in the Architecture Library
 [Kathleen Chambers](mailto:kathleen.t.chambers.29@nd.edu), MArch 2017  
 [Calla Chang](mailto:calla.g.chang.66@nd.edu), BArch 2016  
 [Caitlyn O'Malley](mailto:caitlyn.e.o'malley.44@nd.edu), BArch 2016
 
-### Campus Consultants
-Dennis P. Doordan, Associate Dean of Research, Scholarship, and Creative Work and Professor, School of Architecture  
-David Hernandez, Director of the Roman Forum Excavations Project at Butrint (Albania)  
-Assistant Professor of Classics, Concurrent Assistant Professor of Anthropology  
-Jarek Nabrzyski, Director, Center for Research Computing  
-Robin Rhodes, Associate Professor, Art, Art History and Design. Concurrent Associate Professor in Classics and Architecture
-
 ## Current Projects
 [Seaside Research Portal](http://seaside.library.nd.edu)  
-[SPQR-ND](http://library.nd.edu/architecture/spqrnd.shtml) – [iPad](https://itunes.apple.com/us/app/spqr-nd/id908746471?mt=8) – Available in the App Store  
-[SPQR-ND](http://library.nd.edu/architecture/spqrnd.shtml) – [iPhone](https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810?mt=8) - Available in the App Store  
-[Building South Bend: Past, Present, & Future](http://library.nd.edu/architecture/southbend/index.shtml)  
-[Downtown SB](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8) - Available in the App Store
+SPQR-ND – iPad– [Available in the App Store](https://itunes.apple.com/us/app/spqr-nd/id908746471?mt=8)  
+SPQR-ND – iPhone - [Available in the App Store](https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810?mt=8)  
+[Building South Bend: Past, Present, & Future](https://buildingsouthbend.nd.edu/)  
+Downtown SB - [Available in the App Store](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8)
+Cities in Text: Rome - COMING APRIL 2019  
+Pilsen Murals Project - COMING 2020  
 
 ## Future Projects
-Historic Tourism for the Modern Traveler
-An Architects Guide to Rome – Alberti to Adam
+Historic Tourism for the Modern Traveler an Architects Guide to Rome – Alberti to Adam
 Paris-Rome-Athens
 
 ## Technology
