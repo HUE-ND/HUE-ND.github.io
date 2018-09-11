@@ -15,18 +15,18 @@ Efforts include expanding SPQR-ND, an application for the iPad and iPhone that c
 [Jennifer Parker](mailto:jparker9@nd.edu?subject=HUE/ND), Head, Architecture Library
 
 ### Design, Mapping, Data, and Image Development
-[Dan Brubaker Horst](mailto:dan.brubaker.horst@nd.edu?subject=HUE/ND), CTS Architect, Office of Information Technology
+[Dan Brubaker Horst](mailto:dan.brubaker.horst@nd.edu?subject=HUE/ND), CTS Architect, Office of Information Technology  
 [Adam Heet](mailto:Adam.L.Heet.3@nd.edu?subject=HUE%20Lab%20Technology), Digital Projects Specialist, Architecture Library  
 [Matthew Sisk](mailto:matthew.sisk@nd.edu?subject=HUE/ND), GIS and Anthropology Librarian, Center for Digital Scholarship
 
 ### Cyberinfrastructure, Programming, and Design
-[Ibrahim Chaaban](mailto:archit@nd.edu?subject=HUE/ND), Application Development Professional, Office of Information Technology
+[Ibrahim Chaaban](mailto:archit@nd.edu?subject=HUE/ND), Application Development Professional, Office of Information Technology  
 [Jarek Nabrzyski](mailto:jaroslaw.nabrzyski1@nd.edu?subject=HUE/ND), Director, Center for Research Computing  
 [Christopher Sweet](mailto:chris.sweet@nd.edu?subject=HUE/ND), Associate Director, Cyberinfrastructure Development, Center for Research Computing  
 [James Sweet](mailto:jsweet@nd.edu?subject=HUE/ND), Computer Science and Engineering
 
 ### Research and Content Support
-Content support provided by Architecture students working in the Architecture Library
+Content support provided by Architecture students working in the Architecture Library  
 [Kathleen Chambers](mailto:kathleen.t.chambers.29@nd.edu), MArch 2017  
 [Calla Chang](mailto:calla.g.chang.66@nd.edu), BArch 2016  
 [Caitlyn O'Malley](mailto:caitlyn.e.o'malley.44@nd.edu), BArch 2016
@@ -41,7 +41,7 @@ Cities in Text: Rome - COMING APRIL 2019
 Pilsen Murals Project - COMING 2020  
 
 ## Future Projects
-Historic Tourism for the Modern Traveler an Architects Guide to Rome – Alberti to Adam
+Historic Tourism for the Modern Traveler an Architects Guide to Rome – Alberti to Adam  
 Paris-Rome-Athens
 
 ## Technology
