@@ -15,3 +15,6 @@ github_username:  HUE-ND
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
