@@ -36,7 +36,7 @@ Content support provided by Architecture students working in the Architecture Li
 SPQR-ND – iPad– [Available in the App Store](https://itunes.apple.com/us/app/spqr-nd/id908746471?mt=8)  
 SPQR-ND – iPhone - [Available in the App Store](https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810?mt=8)  
 [Building South Bend: Past, Present, & Future](https://buildingsouthbend.nd.edu/)  
-Downtown SB - [Available in the App Store](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8)
+Downtown SB - [Available in the App Store](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8)  
 Cities in Text: Rome - COMING APRIL 2019  
 Pilsen Murals Project - COMING 2020  
 
