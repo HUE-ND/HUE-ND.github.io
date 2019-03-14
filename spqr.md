@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPQR/ND Apps
+title: SPQR-ND Apps
 permalink: /spqr/
 ---
 
