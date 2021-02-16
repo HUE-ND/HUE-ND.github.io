@@ -15,7 +15,7 @@ Efforts include expanding SPQR-ND, an application for the iPad and iPhone that c
 [Jennifer Parker](mailto:jparker9@nd.edu?subject=HUE/ND), Head, Architecture Library
 
 ### Design, Mapping, Data, and Image Development
-[Dan Horst](mailto:dan.horst@nd.edu?subject=HUE/ND), CTS Architect, Office of Information Technology  
+[Dan Horst](mailto:dan.horst@nd.edu?subject=HUE/ND), Enterprise Integration Architect, Office of Information Technology  
 [Adam Heet](mailto:Adam.L.Heet.3@nd.edu?subject=HUE%20Lab%20Technology), Digital Projects Specialist, Architecture Library  
 [Matthew Sisk](mailto:matthew.sisk@nd.edu?subject=HUE/ND), GIS and Anthropology Librarian, Center for Digital Scholarship
 
