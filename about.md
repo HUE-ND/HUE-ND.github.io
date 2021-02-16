@@ -37,8 +37,8 @@ SPQR-ND – iPad– [Available in the App Store](https://itunes.apple.com/us/app
 SPQR-ND – iPhone - [Available in the App Store](https://itunes.apple.com/us/app/spqr-nd-for-iphone/id932396810?mt=8)  
 [Building South Bend: Past, Present, & Future](https://buildingsouthbend.nd.edu/)  
 Downtown SB - [Available in the App Store](https://itunes.apple.com/us/app/downtown-sb/id993179423?mt=8)  
-Cities in Text: Rome - COMING APRIL 2019  
-Pilsen Murals Project - COMING 2020  
+Cities in Text: Rome - [Available in the App Store](https://apps.apple.com/us/app/cities-in-text-rome/id1375716915)  
+Cities in Text: Rome - COMING SOON
 
 ## Future Projects
 Historic Tourism for the Modern Traveler an Architects Guide to Rome – Alberti to Adam  
